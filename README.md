@@ -21,7 +21,7 @@
 <p>To run the Todo List app locally on your machine, follow these steps:</p>
 
 <ol>
-  <li>Clone the repository: <code>git clone https://github.com/your-username/todo-list.git</code></li>
+  <li>Clone the repository: <code>git clone https://github.com/Karimbappe/TodoDecathlon</code></li>
   <li>Navigate to the project directory: <code>cd todo-list</code></li>
   <li>Install dependencies: <code>npm install</code></li>
   <li>Start the development server: <code>npm start</code></li>
