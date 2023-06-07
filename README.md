@@ -1,4 +1,4 @@
-<h1>Todo List App</h1>
+<h1>Todo List</h1>
 
 <p>This project is a simple Todo List application developed as part of an apprenticeship recruitment process. It showcases my basic skills in building a web application using React.</p>
 
@@ -21,8 +21,8 @@
 <p>To run the Todo List app locally on your machine, follow these steps:</p>
 
 <ol>
-  <li>Clone the repository: <code>git clone https://github.com/your-username/todo-list-app.git</code></li>
-  <li>Navigate to the project directory: <code>cd todo-list-app</code></li>
+  <li>Clone the repository: <code>git clone https://github.com/your-username/todo-list.git</code></li>
+  <li>Navigate to the project directory: <code>cd todo-list</code></li>
   <li>Install dependencies: <code>npm install</code></li>
   <li>Start the development server: <code>npm start</code></li>
   <li>Open your web browser and visit: <code>http://localhost:3000</code></li>
