@@ -29,3 +29,9 @@
 </ol>
 
 <p>Feel free to explore the code, make modifications, and enhance the app based on your own preferences or requirements.</p>
+
+<h2>Screenshot</h2>
+
+<img width="1430" alt="Capture d’écran 2023-06-07 à 14 59 09" src="https://github.com/Karimbappe/TodoDecathlon/assets/78148549/6d297667-da3d-438f-a55e-55ac51b948a8">
+
+
